@@ -98,7 +98,7 @@ input[type='submit'] {
     color: rgba(255, 255, 255, 1);
     margin-left: -22.1%;
     margin-top: 2.5px;
-    background-image: url(/img/svg/search.svg);   
+    background-image: url(../img/svg/search.svg);   
     background-repeat: no-repeat;    
     background-position: 15%; 
     outline: none; 
@@ -148,16 +148,16 @@ input[type='text']:hover{
     padding-bottom: 10px;
 }
 .first_num::after{
-    background: url(/img/svg/viber_phone.svg) no-repeat;
+    background: url(../img/svg/viber_phone.svg) no-repeat;
 }
 .second_num::after{
-    background: url(/img/svg/whathsap_phone.svg) no-repeat;
+    background: url(../img/svg/whathsap_phone.svg) no-repeat;
 }
 .third_num::after{
-    background: url(/img/svg/telegram_phone.svg) no-repeat;
+    background: url(../img/svg/telegram_phone.svg) no-repeat;
 }
 .fourth_num::after{
-    background: url(/img/svg/viber_phone.svg) no-repeat;
+    background: url(../img/svg/viber_phone.svg) no-repeat;
 }
 .first_num::after, .second_num::after, .third_num::after, .fourth_num::after{
     content: '      ';
@@ -194,14 +194,14 @@ input[type='text']:hover{
     cursor: pointer;
     width: 40px;
     height: 40px;
-    background: url(/img/svg/star_black.svg) no-repeat center;
+    background: url(../img/svg/star_black.svg) no-repeat center;
     background-color: white;
     transition: 0.2s;
     margin-right: 40px;
     border-radius: 5px;
 }
 .star:hover{
-    background: url(/img/svg/star_white.svg) no-repeat center;
+    background: url(../img/svg/star_white.svg) no-repeat center;
     background-color: #175B80;
 }
 .market{
@@ -211,7 +211,7 @@ input[type='text']:hover{
     cursor: pointer;
     width: 120px;
     height: 40px;
-    background: url(/img/svg/market_black.svg) no-repeat left;
+    background: url(../img/svg/market_black.svg) no-repeat left;
     background-color: white;
     background-position: 5%;
     transition: 0.2s;
@@ -220,7 +220,7 @@ input[type='text']:hover{
     padding-right: 10px;
 }
 .market:hover{
-    background: url(/img/svg/market_white.svg) no-repeat left;
+    background: url(../img/svg/market_white.svg) no-repeat left;
     background-color: #175B80;
     color: white;
     background-position: 5%;
@@ -363,7 +363,7 @@ input[type='text']:hover{
 }
 .select2-container--default .select2-selection--single .select2-selection__arrow{
     content: '';
-    background: url(/img/svg/arrow_down_black.svg) no-repeat center;
+    background: url(../img/svg/arrow_down_black.svg) no-repeat center;
 }
 .select2-container--default.select2-container--disabled .select2-selection--single .select2-selection__rendered{
     border: 1px solid #E1E5E8;
@@ -386,7 +386,7 @@ input[type='text']:hover{
 .select2-container--default .select2-search--dropdown .select2-search__field{
     border: 0.5px solid #F7AE10;
     border-radius: 6px;
-    background: url(/img/svg/zoom_icon_gray.svg) no-repeat;
+    background: url(../img/svg/zoom_icon_gray.svg) no-repeat;
     background-position: 99%;
 }
 .select{
@@ -734,7 +734,7 @@ label, a{
 	align-items: flex-start;
 }
 .slick-arrow.slick-prev{
-    background: url(/img/svg/slide_arrow_blue.svg) no-repeat center !important;
+    background: url(../img/svg/slide_arrow_blue.svg) no-repeat center !important;
     background-size: 100%;
     float: left;
     border: 0;
@@ -744,7 +744,7 @@ label, a{
     width: 20px;
 }
 .slick-arrow.slick-next{
-    background: url(/img/svg/slide_arrow_hover.svg) no-repeat center !important;
+    background: url(../img/svg/slide_arrow_hover.svg) no-repeat center !important;
     float: right;
     margin: 0 -64px 0 0;
     display: block;
@@ -816,7 +816,7 @@ label, a{
 .slider__item:hover .cat_arrow{
     cursor: pointer;
     color: #F7AE10;
-    background: url(/img/svg/cat_arrow_hover.svg) no-repeat right;
+    background: url(../img/svg/cat_arrow_hover.svg) no-repeat right;
 }
 .slider__item:hover{
     cursor: pointer;
@@ -831,7 +831,7 @@ label, a{
     margin: 10px 20px 20px 0;
     font-weight: 600;
     font-size: 14px;
-    background: url(/img/svg/cat_arrow.svg) no-repeat right;
+    background: url(../img/svg/cat_arrow.svg) no-repeat right;
     transition: 0.2s;
 }
 .slider_cat .slick-arrow.slick-next, .slider_cat .slick-arrow.slick-prev{
@@ -900,7 +900,7 @@ label, a{
 color: #FFFFFF !important
 }
 .slick-arrow.slick-prev{
-    background: url(/img/svg/slide_arrow_gray.svg) no-repeat center !important;
+    background: url(../img/svg/slide_arrow_gray.svg) no-repeat center !important;
     color: #175b8000;
     position: absolute;
     top: -61px;
@@ -1017,7 +1017,7 @@ color: #FFFFFF !important
 }
 .check_txt::before{
     content: '      ';
-    background: url(/img/svg/check_last.svg) no-repeat left;
+    background: url(../img/svg/check_last.svg) no-repeat left;
 }
 .last_block_txt_{
     font-weight: 600;
@@ -1048,7 +1048,7 @@ color: #FFFFFF !important
 }
 .foot_cont_2::after{
     content: '      ';
-    background: url(/img/svg/whathsap_phone.svg) no-repeat;
+    background: url(../img/svg/whathsap_phone.svg) no-repeat;
     margin-top: 10px;
     margin-left: 3px;
     background-size:contain;
@@ -1058,7 +1058,7 @@ color: #FFFFFF !important
 }
 .foot_cont_3::after{
     content: '            ';
-    background: url(/img/svg/vib_tg.svg) no-repeat;
+    background: url(../img/svg/vib_tg.svg) no-repeat;
     margin-top: 10px;
     margin-left: 3px;
     height: 20px;
@@ -1269,16 +1269,16 @@ color: #FFFFFF !important
         flex-wrap: wrap;
     }
     .phone_resp{
-        background: url(/img/svg/phone_black.svg) no-repeat center #fff;
+        background: url(../img/svg/phone_black.svg) no-repeat center #fff;
     }
     .zoom_resp{
-        background: url(/img/svg/zoom_icon_black.svg) no-repeat center #fff;
+        background: url(../img/svg/zoom_icon_black.svg) no-repeat center #fff;
     }
     .market_resp{
-        background: url(/img/svg/market_black.svg) no-repeat center #fff;
+        background: url(../img/svg/market_black.svg) no-repeat center #fff;
     }
     .burger_menu{
-        background: url(/img/svg/burger_first.svg) no-repeat center #E1E5E8;
+        background: url(../img/svg/burger_first.svg) no-repeat center #E1E5E8;
     }
     .header_second{
         height: 70px;
@@ -1438,13 +1438,13 @@ color: #FFFFFF !important
         border-radius: 5px;
     }
     .burger_menu_active{
-        background: url(/img/svg/exit_icon_white.svg) #175B80 no-repeat center;
+        background: url(../img/svg/exit_icon_white.svg) #175B80 no-repeat center;
     }
     .phone_resp_active{
-        background: url(/img/svg/phone_white.svg) #175B80 no-repeat center;
+        background: url(../img/svg/phone_white.svg) #175B80 no-repeat center;
     }
     .zoom_resp_active{
-        background: url(/img/svg/zoom_icon.svg) #175B80 no-repeat center;
+        background: url(../img/svg/zoom_icon.svg) #175B80 no-repeat center;
     }
     .header_logo{
         width: 40%;
@@ -1509,7 +1509,7 @@ color: #FFFFFF !important
         justify-content: space-between;
     }
     .scroll_btn_back{
-        background: url(/img/svg/slide_arrow_gray.svg) no-repeat center !important;
+        background: url(../img/svg/slide_arrow_gray.svg) no-repeat center !important;
         background-size: 100%;
         float: left;
         border: 0;
@@ -1518,7 +1518,7 @@ color: #FFFFFF !important
         width: 20px;
     }
     .scroll_btn_go{
-        background: url(/img/svg/slide_arrow_hover.svg) no-repeat center !important;
+        background: url(../img/svg/slide_arrow_hover.svg) no-repeat center !important;
         float: right;
         display: block;
         border: 0;
